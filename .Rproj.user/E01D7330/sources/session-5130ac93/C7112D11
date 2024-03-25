@@ -1,26 +1,26 @@
 {
-    "id": "55E66C73",
+    "id": "C7112D11",
     "path": "~/Library/Mobile Documents/com~apple~CloudDocs/rutgers/phd/second_year/phonetics/discussion_leader/2/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "1120492061",
     "contents": "",
-    "dirty": true,
-    "created": 1710943360941.0,
+    "dirty": false,
+    "created": 1711374711770.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "14,0",
-        "scrollLine": "0"
+        "cursorPosition": "116,31",
+        "scrollLine": "109"
     },
     "folds": "",
-    "lastKnownWriteTime": 1710953704,
+    "lastKnownWriteTime": 1711374830,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1710960509869,
+    "last_content_update": 1711374830124,
     "read_only": false,
     "read_only_alternatives": []
 }
